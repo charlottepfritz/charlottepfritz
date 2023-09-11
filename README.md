@@ -1,7 +1,5 @@
 # About Me
 
-[CharlotteFritz](https://github.com/charlottepfritz/charlottepfritz/assets/133656144/09b69f46-19a6-49a4-a627-897374419227)
-
 Hello, I'm Charlotte 🌼
 
 I am a computer engineering PEY Co-op student with 2+ years of experience developing and analyzing software and hardware systems. I'm passionate about designing technology to create a more secure world.
