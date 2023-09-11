@@ -22,7 +22,6 @@ Systems, Computer Organization, Operating Systems, Applied Fundamentals of Deep 
 
 - Programming: C++, C, Python, Django, HTML, CSS, SQL, MATLAB 
 - Hardware Design: Verilog, ARM Assembly
-- Software Development: list some software dev skills here
 - Other: GIT, Quartus, Bash, Microsoft Office Suite, Fusion360, ArcGIS
 
 
