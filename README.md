@@ -2,7 +2,7 @@
 
 Hello, I'm Charlotte 🌼
 
-I am a computer engineering PEY Co-op student with 2+ years of experience developing and analyzing software and hardware systems. I'm passionate about designing technology to create a more secure world.
+I am a computer engineering PEY Co-op student with 2+ years of experience developing and analyzing software and hardware systems. I'm passionate about designing technology to create a more secure world!
 
 ## 🌟 Education
 
