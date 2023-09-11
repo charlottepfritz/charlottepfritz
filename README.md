@@ -1,16 +1,46 @@
-### Hi there 👋
+# About Me
 
-<!--
-**charlottepfritz/charlottepfritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[CharlotteFritz](https://github.com/charlottepfritz/charlottepfritz/assets/133656144/09b69f46-19a6-49a4-a627-897374419227)
 
-Here are some ideas to get you started:
+Hello, I'm Charlotte 🌼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a computer engineering PEY Co-op student with 2+ years of experience developing and analyzing software and hardware systems. I'm passionate about designing technology to create a more secure world.
+
+## 🌟 Education
+
+- **University of Toronto** - Year 3
+  - Computer Engineering
+  - Minor in Aritificial Intelligence
+  - Minor in Business
+  - Courses: Programming Fundamentals, Communication and Design, Computer Fundamentals, Digital
+Systems, Computer Organization, Operating Systems, Applied Fundamentals of Deep Learning
+
+## 💼 Experience
+
+- **Cybersecurity Associate at Grant Thornton LLP** - May 2022 to Aug 2023
+
+
+## ⚡️Skills
+
+- Programming: C++, C, Python, Django, HTML, CSS, SQL, MATLAB 
+- Hardware Design: Verilog, ARM Assembly
+- Software Development: list some software dev skills here
+- Other: GIT, Quartus, Bash, Microsoft Office Suite, Fusion360, ArcGIS
+
+
+## ✏️ Projects
+
+## 🔗 Contact Me
+
+Feel free to connect with me or reach out for collaborations or discussions:
+
+- LinkedIn: https://www.linkedin.com/in/charlottepfritz/
+- Email: charlotte.fritz@mail.utoronto.ca
+
+## 🏆 Achievements
+
+
+## 🌻 Goals
+
+
+## 📝 License
