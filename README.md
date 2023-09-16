@@ -24,7 +24,6 @@ Systems, Computer Organization, Operating Systems, Applied Fundamentals of Deep 
 - Hardware Design: Verilog, ARM Assembly
 - Other: GIT, Quartus, Bash, Microsoft Office Suite, Fusion360, ArcGIS
 
-
 ## ✏️ Projects
 
 ## 🔗 Contact Me
