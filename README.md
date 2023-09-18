@@ -39,4 +39,3 @@ Feel free to connect with me or reach out for collaborations or discussions:
 ## 🌻 Goals
 
 
-## 📝 License
