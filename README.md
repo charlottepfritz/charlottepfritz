@@ -22,7 +22,7 @@ Systems, Computer Organization, Operating Systems, Applied Fundamentals of Deep 
 
 - Programming: C++, C, Python, Django, HTML, CSS, SQL, MATLAB 
 - Hardware Design: Verilog, ARM Assembly
-- Other: GIT, Quartus, Bash, Microsoft Office Suite, Fusion360, ArcGIS
+- Other: GIT, Quartus, Bash, Microsoft Office Suite, Fusion360 CAD, ArcGIS
 
 ## ✏️ Projects
 
