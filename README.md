@@ -20,11 +20,9 @@ Systems, Computer Organization, Operating Systems, Applied Fundamentals of Deep 
 
 ## ⚡️Skills
 
-- Programming: C++, C, Python, Django, HTML, CSS, SQL, MATLAB 
+- Programming: C++, C, Python, Django, HTML, CSS, SQL, NNode.js, Processing, MATLAB 
 - Hardware Design: Verilog, ARM Assembly
 - Other: GIT, Quartus, Bash, Microsoft Office Suite, Fusion360 CAD, ArcGIS
-
-## ✏️ Projects
 
 ## 🔗 Contact Me
 
@@ -32,10 +30,4 @@ Feel free to connect with me or reach out for collaborations or discussions:
 
 - LinkedIn: https://www.linkedin.com/in/charlottepfritz/
 - Email: charlotte.fritz@mail.utoronto.ca
-
-## 🏆 Achievements
-
-
-## 🌻 Goals
-
 
