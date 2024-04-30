@@ -1,3 +1,4 @@
+![Profile Banner]([url_to_your_banner_image](https://github.com/charlottepfritz/charlottepfritz/assets/133656144/c38b75f8-c104-4381-82c3-fceabde9cbce))
 # About Me
 
 Hello, I'm Charlotte 🌼
