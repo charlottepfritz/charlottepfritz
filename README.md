@@ -34,7 +34,7 @@ Here are some of the projects I'm proud of:
 
 ## 🔗 Contact Me
 
-Feel free to connect with me or reach out for collaborations or discussions:
+Feel free to connect!
 
 - LinkedIn: https://www.linkedin.com/in/charlottepfritz/
 - Email: charlotte.fritz@mail.utoronto.ca
