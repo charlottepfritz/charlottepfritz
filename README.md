@@ -9,8 +9,8 @@ I am a computer engineering student with 4+ years of experience developing and a
 
 - **University of Toronto** - Year 4
   - Computer Engineering
-  - Minor in Aritificial Intelligence
-  - Minor in Robotics and Mechatronics
+  - Minor in **Aritificial Intelligence**
+  - Minor in **Robotics and Mechatronics**
   - **Courses**: Applied Fundamentals of Deep Learning, Probability & Applications, Operating Systems, Computer Networks, Control Systems, Digital Electronics, Computer Hardware, Algorithms & Data Structures
  
 ## 💬 Projects
