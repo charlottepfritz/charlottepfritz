@@ -27,9 +27,9 @@ Here are some of the projects I'm proud of:
 
 ## ⚡️Skills
 
-- Programming: C, C++, Python, Django, HTML, CSS, SQL, Node.js, Processing, MATLAB, GIT 
-- Hardware Design: Verilog, ARM Assembly
-- Other: Quartus, Bash, Microsoft Office Suite, Fusion360 CAD, ArcGIS
+- **Programming:** C, C++, Python, Django, HTML, CSS, SQL, Node.js, Processing, MATLAB, GIT 
+- **Hardware Design:** Verilog, ARM Assembly
+- **Other:** Quartus, Bash, Microsoft Office Suite, Fusion360 CAD, ArcGIS
 
 ## 🔗 Contact Me
 
