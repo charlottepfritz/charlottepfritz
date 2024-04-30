@@ -12,6 +12,13 @@ I am a computer engineering student with 3+ years of experience developing and a
   - Minor in Aritificial Intelligence
   - Minor in Robotics and Mechatronics
   - Courses: Applied Fundamentals of Deep Learning, Probability & Applications, Operating Systems, Computer Networks, Control Systems, Digital Electronics, Computer Hardware, Algorithms & Data Structures
+ 
+## 💬 Projects
+
+Here are some of the projects I'm proud of:
+- [💊 PillPartner]([Project Link](https://github.com/charlottepfritz/PillPartner): Embedded systems computer hardware project in C.
+- [⛈️ HurriScan](https://github.com/macaroonforu/HurriScan/tree/main): Pytorch Artifiical Intelligence and Machine learning model project.
+- [☕ RoastRoute](https://github.com/ambroseling/RoastRoute-GIS): Large scale C++ software collaborative development project.
 
 ## 💼 Experience
 
