@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/charlottepfritz/charlottepfritz/assets/133656144/76e0b2d6-e73f-4ffb-85f9-b88c844de03e)
+![Profile Banner](https://github.com/charlottepfritz/charlottepfritz/assets/133656144/9c70667f-f396-4750-8f40-35136afcaf9c)
 
 # About Me
 
