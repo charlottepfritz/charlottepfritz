@@ -2,16 +2,15 @@
 
 Hello, I'm Charlotte 🌼
 
-I am a computer engineering PEY Co-op student with 3+ years of experience developing and analyzing software and hardware systems. I'm passionate about designing technology to create a more secure world!
+I am a computer engineering student with 3+ years of experience developing and analyzing software and hardware systems. I'm passionate about designing technology to create a more secure world!
 
 ## 🌟 Education
 
-- **University of Toronto** - Year 3
+- **University of Toronto** - Year 4
   - Computer Engineering
   - Minor in Aritificial Intelligence
-  - Minor in Business
-  - Courses: Programming Fundamentals, Communication and Design, Computer Fundamentals, Digital
-Systems, Computer Organization, Operating Systems, Applied Fundamentals of Deep Learning
+  - Minor in Robotics and Mechatronics
+  - Courses: Applied Fundamentals of Deep Learning, Probability & Applications, Operating Systems, Computer Networks, Control Systems, Digital Electronics, Computer Hardware, Algorithms & Data Structures
 
 ## 💼 Experience
 
@@ -20,7 +19,7 @@ Systems, Computer Organization, Operating Systems, Applied Fundamentals of Deep 
 
 ## ⚡️Skills
 
-- Programming: C++, C, Python, Django, HTML, CSS, SQL, NNode.js, Processing, MATLAB 
+- Programming: C, C++, Python, Django, HTML, CSS, SQL, NNode.js, Processing, MATLAB 
 - Hardware Design: Verilog, ARM Assembly
 - Other: GIT, Quartus, Bash, Microsoft Office Suite, Fusion360 CAD, ArcGIS
 
