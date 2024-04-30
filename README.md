@@ -19,9 +19,9 @@ I am a computer engineering student with 3+ years of experience developing and a
 
 ## ⚡️Skills
 
-- Programming: C, C++, Python, Django, HTML, CSS, SQL, NNode.js, Processing, MATLAB 
+- Programming: C, C++, Python, Django, HTML, CSS, SQL, NNode.js, Processing, MATLAB, GIT 
 - Hardware Design: Verilog, ARM Assembly
-- Other: GIT, Quartus, Bash, Microsoft Office Suite, Fusion360 CAD, ArcGIS
+- Other: Quartus, Bash, Microsoft Office Suite, Fusion360 CAD, ArcGIS
 
 ## 🔗 Contact Me
 
