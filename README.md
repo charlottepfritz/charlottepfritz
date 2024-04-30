@@ -6,7 +6,7 @@ Hello, I'm Charlotte 🌼
 
 I am a computer engineering student with 4+ years of experience developing and analyzing software and hardware systems. I'm passionate about designing technology to create a more secure world!
 
-## 🌟 Education
+## 👩‍🎓 Education
 
 - **University of Toronto** - Year 4
   - Computer Engineering
@@ -14,7 +14,7 @@ I am a computer engineering student with 4+ years of experience developing and a
   - Minor in **Robotics and Mechatronics**
   - **Courses**: Applied Fundamentals of Deep Learning, Probability & Applications, Operating Systems, Computer Networks, Control Systems, Digital Electronics, Computer Hardware, Algorithms & Data Structures
  
-## 💡Projects
+## 💡 Projects
 
 Here are some of the projects I'm proud of:
 - 💊 [**PillPartner**](https://github.com/charlottepfritz/PillPartner) - Embedded systems computer hardware project in C.
@@ -22,12 +22,12 @@ Here are some of the projects I'm proud of:
 - ☕ [**RoastRoute**](https://github.com/ambroseling/RoastRoute-GIS) - Large scale C++ software collaborative development project.
 - 🐚 [**Cove**](https://main--cove-serenity-in-storytime.netlify.app) - HTML5/CSS3 Website design and start-up conceptualization.
 
-## 🌱 Experience
+## 🌟 Experience
 
 - **Cybersecurity Associate at Grant Thornton LLP** - May 2022 to Aug 2023
 
 
-## 🧠 Skills
+## 🌱 Skills
 
 - **Programming:** C, C++, Python, Django, HTML, CSS, SQL, Node.js, Processing, MATLAB, GIT 
 - **Hardware Design:** Verilog, ARM Assembly
