@@ -20,6 +20,7 @@ Here are some of the projects I'm proud of:
 - 💊 [PillPartner](https://github.com/charlottepfritz/PillPartner): Embedded systems computer hardware project in C.
 - ⛈️ [HurriScan](https://github.com/macaroonforu/HurriScan/tree/main): Pytorch Artifiical Intelligence and Machine learning model project.
 - ☕ [RoastRoute](https://github.com/ambroseling/RoastRoute-GIS): Large scale C++ software collaborative development project.
+- 🐚 [Cove](https://main--cove-serenity-in-storytime.netlify.app): HTML5/CSS3 Website design and start-up conceptualization.
 
 ## 💼 Experience
 
