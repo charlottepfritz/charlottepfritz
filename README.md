@@ -20,10 +20,4 @@ Here are some of the projects I'm proud of:
 - **Hardware Design:** Verilog, ARM Assembly
 - **Other:** Quartus, Bash, Microsoft Office Suite, Fusion360 CAD, ArcGIS
 
-## 💬 Contact Me
-
-Feel free to connect!
-
-- LinkedIn: https://www.linkedin.com/in/charlottepfritz/
-- Email: charlotte.fritz@mail.utoronto.ca
 
