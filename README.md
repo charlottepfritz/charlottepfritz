@@ -13,10 +13,6 @@ Here are some of the projects I'm proud of:
 - ☕ [**RoastRoute**](https://github.com/ambroseling/RoastRoute-GIS) - Large scale C++ software collaborative development project.
 - 🐚 [**Cove**](https://main--cove-serenity-in-storytime.netlify.app) - HTML5/CSS3 Website design and start-up conceptualization.
 
-## 🌟 Experience
-- **Cyber Security Analyst at Royal Bank of Canada** - May 2024 to Aug 2024
-- **Cybersecurity Associate at Grant Thornton LLP** - May 2022 to Aug 2023
-
 
 ## 🌱 Skills
 
