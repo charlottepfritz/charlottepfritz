@@ -2,8 +2,8 @@
 ⋆      ✦        ⋆
 
     Charlotte Fritz
-    Deep Learning • Physics-aware XAI • Industrial Security
+    deep learning • physics-aware xai • industrial security
 
-    Designing for understanding ✎ ♡
+    Designing for understanding. ✎ ♡
 
 ⋆        ✦        ✿
