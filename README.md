@@ -1,9 +1,9 @@
 ```text
 ⋆      ✦        ⋆
-    building things that make sense
-✧           ⋆
 
     Charlotte Fritz
-    systems • security • xai
+    deep learning • physics-aware xai • industrial security
+
+    designing for understanding
 
 ⋆        ✦        ⋆
